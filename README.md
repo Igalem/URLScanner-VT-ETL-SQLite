@@ -27,7 +27,7 @@ It integrates SQLite database operations with URL analysis to filter potentially
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/virus-total-sql-etl.git
+   git clone https://github.com/Igalem/virus-total-sql-etl.git
    cd virus-total-sql-etl
    ```
    
